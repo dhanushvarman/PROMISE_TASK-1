@@ -19,6 +19,7 @@ row.classList.add("row");
 container.append(row);
 div.append(container);
 document.body.append(h1,div);
+document.body.style.backgroundColor="lightblue";
 
 
 let word="hello";
